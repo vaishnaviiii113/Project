@@ -10,7 +10,7 @@ EDA-Preprocessing
 
 -Treating Null values.
 
-- Treating Outliers(by using boxplot)
+-Treating Outliers(by using boxplot)
 
 -Checking the correlation and skewness
 
